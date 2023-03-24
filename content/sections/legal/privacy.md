@@ -2,18 +2,28 @@
 sectionId: privacy
 ---
 
-Your privacy is important to me. It is my, YOURNAME, policy to respect your privacy regarding any information I may collect from you across my website, YOURDOMAIN.
+Welcome to our privacy policy, where we promise to protect your personal information from stalkers, hackers, and the occasional nosy neighbor.
 
-I only ask for personal information when I truly need it to provide a service to you. I collect it by fair and lawful means, with your knowledge and consent. I also let you know why I am collecting it and how it will be used.
+    Information We Collect
 
-I only retain collected information for as long as necessary to provide you with your requested service. What data I store, I'll protect within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification.
+We collect information about you that we find interesting and potentially useful, such as your favorite ice cream flavor, your pet's name, and your astrological sign. We may also collect your IP address, browser type, and other technical information that we don't really understand but think sounds impressive.
 
-I don’t share any personally identifying information publicly or with third-parties, except when required to by law.
+    How We Use Your Information
 
-My website may link to external sites that are not operated by me. Please be aware that I have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.
+We use your personal information to improve our services, make better jokes, and occasionally send you pictures of cute animals. We may also use your information to create personalized ads that we think you'll find hilarious, but that your mom might not appreciate.
 
-You are free to refuse my request for your personal information, with the understanding that I may be unable to provide you with some of your desired services.
+    Information We Share
 
-Your continued use of my website will be regarded as acceptance of my practices around privacy and personal information. If you have any questions about how I handle user data and personal information, feel free to contact me.
+We share your personal information with our office plants, who are always looking for new friends. We may also share your information with government agencies if they ask nicely, or if we think it will help us get out of a parking ticket.
 
-This policy is effective as of 22 September 2019. It has been generated with the help of GetTerms.io.
+    How We Protect Your Information
+
+We protect your personal information by wrapping it in bubble wrap and storing it in a secure location, which may or may not be under our desk. We also hire a trained ninja to guard our servers and chase away any intruders.
+
+    Your Choices
+
+You can choose not to provide us with certain information, but we may still find ways to stalk you on social media. You can also opt-out of receiving our emails, but then you'll miss out on all the fun.
+
+    Changes to this Privacy Policy
+
+We reserve the right to change this privacy policy whenever we feel like it, or whenever we forget what it said. We will notify you of any changes by sending a singing telegram to your office, or by shouting it from the rooftops.

@@ -1,20 +1,20 @@
 {
-  "intro": "Hej",
+  "intro": "Hello degens",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "../../images/tempus.png",
     "alt": "My Photo"
   },
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "Wen Utility? ..",
+    "highlight": "not yet",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "like a free mint in a bull run, this web app promises everything but does nothing",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": false
