@@ -8,13 +8,14 @@
     "author": "Tempus",
     "avatar": "../content/images/tempus.png",
     "bio": "Tempus always saw things a little differently than other Tweaks. His movement within and perception of time are radically complex, as he doesn’t adhere to the normal, human laws of time.",
+    
     "social": {
-      "twitter": "https://twitter.com/scottcooper_eth",
-      "behance": "",
-      "github": "https://github.com/coopertweak/degen0",
-      "medium": "https://twitter.com/scottcooper_eth",
-      "linkedin": "",
-      "mail": ""
+    "twitter": "https://twitter.com/scottcooper_eth",
+    "behance": "",
+    "github": "https://github.com/coopertweak/degen0",
+    "medium": "",
+    "linkedin": "",
+    "mail": ""
     }
   },
   "siteConfiguration": {

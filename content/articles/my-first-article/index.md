@@ -6,7 +6,6 @@ banner:
   src: "../../images/tempus.png"
   alt: "Useless NFT"
 categories:
-  - "NFT"
   - "NFA"
 keywords:
   - "NFA"

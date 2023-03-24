@@ -14,11 +14,11 @@ We use your personal information to improve our services, make better jokes, and
 
     Information We Share
 
-We share your personal information with our office plants, who are always looking for new friends. We may also share your information with government agencies if they ask nicely, or if we think it will help us get out of a parking ticket.
+We share your personal information with the neighborhood squirrels, who are always looking for new friends.
 
     How We Protect Your Information
 
-We protect your personal information by wrapping it in bubble wrap and storing it in a secure location, which may or may not be under our desk. We also hire a trained ninja to guard our servers and chase away any intruders.
+We protect your personal information by wrapping it in bubble wrap and storing it in a secure location, which may or may not be under our desk. We also hire a trained ninja to chase away any intruders.
 
     Your Choices
 
