@@ -15,13 +15,6 @@
       }
     },
     {
-      "label": "Over There",
-      "image": {
-        "src": "../../images/nail-polish.png",
-        "alt": ""
-      }
-    },
-    {
       "label": "Anywhere",
       "image": {
         "src": "../../images/gem-stone.png",
@@ -38,14 +31,14 @@
     {
       "label": "Not this Either",
       "image": {
-        "src": "../../images/tempus.png",
+        "src": "../../images/high-voltage.png",
         "alt": ""
       }
     },
     {
       "label": "Here's something... jk",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/tempus.png",
         "alt": ""
       }
     }
